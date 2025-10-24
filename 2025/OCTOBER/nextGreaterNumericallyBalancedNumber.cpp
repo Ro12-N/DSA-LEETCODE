@@ -21,3 +21,7 @@ public:
         return -1;
     }
 };
+
+
+// O(Δ×logn)
+//  Δ = (next beautiful number - n)
