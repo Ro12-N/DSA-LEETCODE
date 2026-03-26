@@ -26,5 +26,3 @@ public:
         return false;
     }
 };
-// TC: 
-//SC:
