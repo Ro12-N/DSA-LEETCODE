@@ -44,4 +44,4 @@ public:
 };
 
 // Time Complexity: O(n + q log n) where n is the number of elements in the input array and q is the number of queries
-// Space Complexity: O(n) where n is the number of elements in the input array (
+// Space Complexity: O(n) where n is the number of elements in the input array 
